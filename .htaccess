@@ -1,0 +1,4 @@
+<Files  ~ "\.(json)$">
+  Order allow,deny
+  Allow from all
+</Files>
